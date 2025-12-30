@@ -1,3 +1,5 @@
+
+
 # Healthcare Management System
 
 A full-stack web application for managing medical appointments, doctor-patient interactions, and healthcare facility administration. Built with Angular and Node.js/Express with TypeScript.
